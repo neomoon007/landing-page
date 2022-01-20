@@ -8,7 +8,7 @@ This is a simple landing page project about Origami.
 * [Credits](#credits)
 
 ## General info 
-This is a landing page with the theme Origami, this is one of my hobbies and I thought it would be a good opportunity to blend both worlds together
+This is a landing page with the theme "Origami", this is one of my hobbies and I thought it would be a good opportunity to blend both worlds together,
 I hope you enjoy it, this page was made as part of the Odin Project [curriculum](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page). View [live page](https://neomoon007.github.io/landing-page/)
 
 ## Technologies
