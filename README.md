@@ -20,7 +20,7 @@ Project is created with:
 For this project I used the skills learned with HTML5 and CSS Flexbox in [The Odin Project](https://www.theodinproject.com/).
 
 ## Credits
-Header origami icon created by [mynamepong](https://www.flaticon.com/br/autores/mynamepong)..
-Header youtube, instagram, flickr and github icons created by [Ruslan Babkin](https://www.flaticon.com/authors/ruslan-babkin)..
-Header image 'origami-background.jpg' created by [Nic0leta](https://pixabay.com/illustrations/origami-paper-folding-japan-hobby-3584204/)..
+* Header origami icon created by [mynamepong](https://www.flaticon.com/br/autores/mynamepong).
+* Header youtube, instagram, flickr and github icons created by [Ruslan Babkin](https://www.flaticon.com/authors/ruslan-babkin).
+* Header image 'origami-background.jpg' created by [Nic0leta](https://pixabay.com/illustrations/origami-paper-folding-japan-hobby-3584204/).
 
